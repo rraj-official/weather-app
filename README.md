@@ -9,7 +9,7 @@
 ### Features
 + Weather app with detailed analytics like daily, hourly, and current weather in a beautiful design.
 + **Glassmorphic effect**: Similar to the translucent glass-like effect on Apple websites.
-+ **Live Wallpaper**: Change the live wallpaper as per the location's current weather.
++ **Live Wallpaper**: Changes the live wallpaper as per the location's current weather.
 + **Responsive**: Works on all devices of all sizes.
 
 ### Clone locally
