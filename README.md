@@ -2,6 +2,7 @@
 ~ Built using React, TailwindCSS, Axios, WeatherAPI
 
 ##Link to website
+(Not deployed currently, clone locally to test application)
 
 ![image](https://github.com/rraj-official/weather-app/assets/119522203/dde0d2cc-ea4f-416b-89cc-690ede24d79d)
 
